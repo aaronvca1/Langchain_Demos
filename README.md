@@ -1,6 +1,6 @@
 # Langchain_Demos
 
-Don't forget to add your OpenAI API Key to the .env file. 
+Don't forget to add your OpenAI API Key to the .env file. That file is currently named env but you should rename it to .env so it becomes a hidden file
 
 pip install openai pinecone-client langchain streamlit pypdf tiktoken
 
