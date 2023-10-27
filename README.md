@@ -3,6 +3,7 @@
 Don't forget to add your OpenAI API Key to the .env file. 
 
 pip install openai pinecone-client langchain streamlit pypdf tiktoken
+
 pip install langchain langchain_experimental
 
 
