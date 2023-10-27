@@ -6,11 +6,13 @@ pip install openai pinecone-client langchain streamlit pypdf tiktoken
 
 pip install langchain langchain_experimental
 
+There exist 3 Demos: Thesis Query, CSV Manipulation, and General Python Agent
+
+When running as python files, the ones that use streamlit will prompt you to run it using streamlit run filename.py
 
 
 
-
-Thesis Query
+About Thesis Query:
 
 You can test hugging face LLM as well here by changing the commented out line from line 31 to 30 in  thesis_query.py
 
