@@ -2,7 +2,7 @@
 
 Don't forget to add your OpenAI API Key to the .env file. That file is currently named env but you should rename it to .env so it becomes a hidden file
 
-pip install openai pinecone-client langchain streamlit pypdf tiktoken
+pip install openai chromadb pdf2image langchain streamlit pypdf tiktoken
 
 pip install langchain langchain_experimental
 
